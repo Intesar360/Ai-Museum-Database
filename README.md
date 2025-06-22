@@ -16,7 +16,6 @@ A Python-based application designed to manage and interact with a museum's digit
   - Museum_sections
   - Museum_visitors
   - Professors_info
-  - Rooms / Galleries
 
 - 🖼️ **GUI Interface**
   - Built using **Tkinter**
