@@ -1,0 +1,10 @@
+install -
+python
+pylance
+sql tools, maria db
+
+check in terminal-
+python -m tkinter
+pip install pillow
+pip install mysql-connector-python
+
